@@ -1,12 +1,7 @@
-//Mark Palkimas ; 5542079
-//COP 3223 Section 3
-//Assignment 3
-//Food Bank Program
-
 #include <stdio.h>
 #include <string.h>
 
-#define MAX_DONATIONS 100
+#define MAX_DONATIONS 10000
 
 char donations[MAX_DONATIONS][20];
 int amounts[MAX_DONATIONS];
